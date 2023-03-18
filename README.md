@@ -27,9 +27,7 @@ In addition to my skills, I'm a strong communicator and enjoy collaborating with
 
 ## last works done
 - [NLP Twitter](https://github.com/Migueldfr/NLP-Twitter)
-- [Startups's predictions from America] (https://github.com/Migueldfr/Startup-Predictions)
-
----
+- [Startups's predictions from America](https://github.com/Migueldfr/Startup-Predictions)
 
 ### :hammer_and_wrench: Languages and Tools :
 
