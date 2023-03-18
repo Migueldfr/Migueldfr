@@ -14,8 +14,13 @@
   <h2>Miguel De Frutos 👋</h2>
 </div>
 
-I am a Data Science from Madrid, Spain. Entrepenaur soul with business development background and Data Analist develop, I'd like to get important result form large amounts of dates and make a good delivery of these precious information.
+I am a Data Science from Madrid, Spain. I have an entrepreneurial spirit and a background in business development, coupled with experience in data analysis.
 
+I enjoy working with large amounts of data to obtain valuable insights that can help make informed decisions. I believe that data is a valuable asset and that it can be used to drive business growth. As a Data Scientist, I have a strong foundation in statistics and programming.
+ 
+In addition to my technical expertise, I'm a strong communicator and enjoy collaborating with others to achieve project success. If you're interested in working together or learning more about my experience, please don't hesitate to reach out!
+ 
+ 
 ### interests
 
 - :email: How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miguel.frutos.revilla.sb@gmail)
