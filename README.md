@@ -1,11 +1,3 @@
-### Hi there 👋
-
-### This is Miguel De Frutos!
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/migueldefrutosrevilla/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/migueldefrutos)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miguel.frutos.revilla.sb@gmail)
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="100"/>
   <div id="badges">
@@ -17,7 +9,7 @@
   </a>
 </div>
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Miguexcldfr&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Migueldfr&style=flat-square&color=blue" alt=""/>
 </div>
   <h2>Miguel De Frutos 👋</h2>
 </div>
