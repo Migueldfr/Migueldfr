@@ -21,11 +21,12 @@ I enjoy working with large amounts of data to obtain valuable insights that can 
 In addition to my skills, I'm a strong communicator and enjoy collaborating with others to achieve project success. If you're interested in working together or learning more about my experience, please don't hesitate to reach out!
  
  
-### interests
-
+### Interests
+- 🌱 I’m currently learning Power BI course, develop different projects related with Machine Learning models, giving to the data, structures and conclusions.
+- 🔭 I’m looking for my next challenge; overseas, my town or anywhere, but exciting challenges. I am a Data Science, insider in Machine Learning and Data Analysis
 - :email: How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miguel.frutos.revilla.sb@gmail)
 
-## last works done
+## Last projects done
 - [EDA - Ski resorts](https://github.com/Migueldfr/SkiResort-EDA)
 - [NLP Twitter](https://github.com/Migueldfr/NLP-Twitter)
 - [ML - Startups's predictions from America](https://github.com/Migueldfr/Startup-Predictions)
@@ -63,7 +64,7 @@ In addition to my skills, I'm a strong communicator and enjoy collaborating with
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
