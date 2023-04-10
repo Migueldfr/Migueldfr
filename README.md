@@ -28,7 +28,7 @@ In addition to my skills, I'm a strong communicator and enjoy collaborating with
 ## Last projects done
 - [EDA - Ski resorts](https://github.com/Migueldfr/SkiResort-EDA)
 - [NLP Twitter](https://github.com/Migueldfr/NLP-Twitter)
-- [ML - Startups's predictions from America](https://github.com/Migueldfr/Startup-Predictions)
+- [ML - Startups's predictions from America using Streamlit to deploy the APP](https://github.com/Migueldfr/Startup-Predictions)
 
 ### :hammer_and_wrench: Languages and Tools :
 
