@@ -16,7 +16,7 @@
   <h2></h2>
 </div>
 
-I am a Data Science from Madrid, Spain. I have an entrepreneurial spirit and a background in business development, coupled with experience in data analysis.
+I have an entrepreneurial spirit and a background in business development, coupled with experience in data analysis.
 
 I enjoy working with large amounts of data to obtain valuable insights that can help make informed decisions. I believe that data is a valuable asset and that it can be used to drive business growth. As a Data Scientist, I have a strong foundation in statistics and programming, I am full feel doing algorithm with machine learning and predictions.
  
