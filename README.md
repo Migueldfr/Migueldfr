@@ -26,8 +26,8 @@ In addition to my skills, I'm a strong communicator and enjoy collaborating with
 - :email: How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miguel.frutos.revilla.sb@gmail)
 
 ## Last projects done
-- [EDA - Ski resorts](https://github.com/Migueldfr/SkiResort-EDA)
-- [NLP Twitter](https://github.com/Migueldfr/NLP-Twitter)
+- [EDA - Exploratory analysis of feedback from skiresorts around the world](https://github.com/Migueldfr/SkiResort-EDA)
+- [NLP - Sentiments from the tweets of a Twitter account](https://github.com/Migueldfr/NLP-Twitter)
 - [ML - Startups's predictions from America using Streamlit to deploy the APP](https://github.com/Migueldfr/Startup-Predictions)
 
 ### :hammer_and_wrench: Languages and Tools :
