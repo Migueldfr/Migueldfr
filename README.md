@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <div align="center" style="margin-top: -20px; margin-bottom: 30px;">
+ <div align="center" style="margin-top: -20px; margin-bottom: 30px;">
     <img src="Miguel.gif">
-  </div>
-  <div id="badges">
+ </div>
+ <div id="badges">
   <a href="https://www.linkedin.com/in/migueldefrutosrevilla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
