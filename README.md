@@ -12,6 +12,9 @@
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Migueldfr&style=flat-square&color=blue" alt=""/>
+</div>
+  <h2>Tu nombre aquí 👋</h2>
+</div>
 
 I am a Data Science from Madrid, Spain. I have an entrepreneurial spirit and a background in business development, coupled with experience in data analysis.
 
