@@ -1,6 +1,3 @@
-<video width="320" height="240" controls>
-  <source src="Miguel.mp4" type="mp4">
-</video>
 <div id="header" align="center">
   <video width="320" height="240" controls>
   <source src="Miguel.mp4" type="mp4">
