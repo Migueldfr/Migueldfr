@@ -2,6 +2,9 @@
   <source src="Miguel.mp4" type="mp4">
 </video>
 <div id="header" align="center">
+  <video width="320" height="240" controls>
+  <source src="Miguel.mp4" type="mp4">
+</video>
   <div id="badges">
   <a href="https://www.linkedin.com/in/migueldefrutosrevilla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
