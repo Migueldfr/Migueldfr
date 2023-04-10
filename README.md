@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div align="center" style="margin-top: -20px; margin-bottom: 30px;">
-    <img src="ruta/de/tu/archivo/intro.gif">
+    <img src="Miguel.gif">
   </div>
   <div id="badges">
   <a href="https://www.linkedin.com/in/migueldefrutosrevilla/">
