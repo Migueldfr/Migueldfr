@@ -34,7 +34,7 @@ In addition to my skills, I'm a strong communicator and enjoy collaborating with
 - [NLP - Sentiments from the tweets of a Twitter account](https://github.com/Migueldfr/NLP-Twitter)
 - [ML - Startups's predictions from America (run with STREAMLIT)](https://github.com/Migueldfr/Startup-Predictions)
 - [Python Library for Data Scientist](https://github.com/Migueldfr/MachineLearningToolKit)
-- [Web APP connected to ChatGPT to answer any question](https://github.com/Migueldfr/API-chatgpt)
+- [Web APP connected to ChatGPT to answer any question, deployed at AWS, powered by DOCKER](https://github.com/Migueldfr/API-chatgpt)
 - [Dashboard with POWER BI - Data Analysis COVID-19 ](https://github.com/Migueldfr/Covid-19-PowerBI)
 
 ### :hammer_and_wrench: Languages and Tools :
