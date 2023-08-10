@@ -59,11 +59,10 @@ In addition to my skills, I'm a strong communicator and enjoy collaborating with
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <a title="Qlik, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Qlik_Logo.svg"><img width="512" alt="Qlik Logo"     
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/512px-Qlik_Logo.svg.png"></a>
   
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
-         
+     <a title="Qlik, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Qlik_Logo.svg"><img width="512" alt="Qlik Logo"     
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/512px-Qlik_Logo.svg.png"></a>      
 </div>
 
 
