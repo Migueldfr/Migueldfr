@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <div align="center" style="margin-top: -20 px; margin-bottom: 30 px;">
-    <img src="(https://github.com/Migueldfr/Migueldfr/blob/main/Miguel.gif)" autoplay>
+    <img src="https://github.com/Migueldfr/Migueldfr/blob/main/Miguel.gif" autoplay>
  </div>
  <div id="badges">
   <a href="https://www.linkedin.com/in/migueldefrutosrevilla/">
