@@ -1,6 +1,7 @@
 <div id="header" align="center">
- <div align="center" style="margin-top: -20 px; margin-bottom: 30 px;" autoplay>
+ <div align="center" style="margin-top: -20 px; margin-bottom: 30 px;">
     <img src="Miguel.gif" autoplay>
+    <img src="URL_DEL_GIF" alt="Descripción del GIF" autoplay>
  </div>
  <div id="badges">
   <a href="https://www.linkedin.com/in/migueldefrutosrevilla/">
