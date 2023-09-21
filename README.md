@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <div align="center" style="margin-top: -20 px; margin-bottom: 30 px;">
+ <div align="center" style="margin-top: -20 px; margin-bottom: 30 px;" autoplay>
     <img src="Miguel.gif">
  </div>
  <div id="badges">
